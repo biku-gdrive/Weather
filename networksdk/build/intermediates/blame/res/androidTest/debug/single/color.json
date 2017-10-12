@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\MarketMiles\\mmandroid\\latest\\WeatherMap\\networksdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\soma\\.android\\build-cache\\c83deec08b447e8516570f6af82fa182775d1284\\output\\res\\color\\switch_thumb_material_light.xml"
+    }
+]

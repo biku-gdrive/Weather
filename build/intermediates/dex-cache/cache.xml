@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_9af2b2a9b9178e988d8d17c1ce086602bdbcf1c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\b11250b1677efc9c151c56163fb8d518f3d3b1b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9c570a0bb4652c10ec0bd5d9aca5116c1dac5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_30a340a6415fe5b86de4955084d672e6e2b0ad60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\1b83e6149a09ade440b34edacb27ae47862b1820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53096e2b754e3be0af797944392fffc869ffcd18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\67e49bd1d6e5c673453832e7db571ca04b220ffe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3139d482c0e67ef178ba2edddf07b9c14c7b798a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\da80c5ddeb0a58d1dcb3b2d25548bc993f99466c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67fac8c3c72c9c00ef554830e4f77637427b2680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\d66afef0f38ddf530f2c317d3dac56c168eb4b6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2492b4c3191c6f6944674da86cf750b647c868ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\d2cc6d43e7c7a7db7c549d73b31a5549081d6b68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8c6f9a001b33872b8a7058f96d548a6cb25fa0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\networksdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d6726f0a91636fb9c79363e7989532f50e292df">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_fba931d18ce6646135ce4bb8924ed45a53450064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\5fb9c676e8bf0d0018bec1724dc4f7c937dabfca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73ffacd59849c0f30c61decec64c6e07ab7dc6d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\be1d4ec9bf9801a90c903ae17d56262f2dbb9d06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed2c3b3cbf0d090cb2232d77b71fab0983d92fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_64f568ea60c1b3823c639503b755d56eac8246cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\bc3a818c48877f896aa855e76f5e968662b7250e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c522be5b8226751ca7c4c16cbae6de50949dfc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\soma\.android\build-cache\bd3055ec93d1c53527d89e7afab441ab44ac4d95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Android\MarketMiles\mmandroid\latest\WeatherMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b0d44d474306c10e60448c0c475e44dd0242abc\classes.dex" />
+    </item>
+
+</items>

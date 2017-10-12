@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <string name="search_button">Search</string>
+    <string name="sch_br_inp_hint">Check your City Weather</string>
+    <string name="hello">Welcome to Weather App</string>
+    <string name="no_city">NO CITY AT THIS TIME</string>
+    <string name="default_product2">Description</string>
+    <string name="city">Received</string>
+    <string name="not_found">City Not Found</string>
+    <string name="default_City">Deafault City</string>
+</resources>

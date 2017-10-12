@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="154dp"
+    android:background="@android:color/transparent"
+    xmlns:font="http://schemas.android.com/apk/res-auto">
+
+            <RelativeLayout
+                android:id="@+id/item_layout"
+                android:visibility="visible"
+                android:layout_width="match_parent"
+                android:layout_height="154dp"
+                android:background="@android:color/transparent"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="3dp">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="154dp"
+                    android:background="@drawable/wizard_shadow01" />
+
+
+                <RelativeLayout
+                    android:id="@+id/itemDetails"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView
+                        android:layout_width="76dp"
+                        android:layout_height="76dp"
+                        android:layout_marginLeft="23dp"
+                        android:layout_marginTop="13dp"
+                        android:background="@drawable/imageview_border"/>
+
+                    <ImageView
+                        android:id="@+id/weather_imgView"
+                        android:layout_width="74dp"
+                        android:layout_height="74dp"
+                        android:src="@drawable/icon_icon_product_place_holder"
+                        android:layout_marginLeft="24dp"
+                        android:layout_marginTop="14dp"/>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/shipperDisplay"
+                        android:layout_toRightOf="@+id/weather_imgView">
+
+
+                        <TextView
+                            android:id="@+id/climatetext"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginRight="20dp"
+                            android:text="sample"
+                            android:maxLines="1"
+                            android:ellipsize="end"
+                            android:visibility="visible"
+                            android:textColor="@color/colorBlack"
+                             />
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/citi_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:layout_toRightOf="@+id/weather_imgView"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textSize="16sp"
+                        android:maxLines="1"
+                        android:textColor="@color/colorBlack"
+                        android:ellipsize="end"
+                        android:text="@string/default_product2"
+                        android:layout_below="@+id/shipperDisplay" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_below="@+id/itemDetails"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/latlong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:layout_marginLeft="24dp"
+                        android:layout_marginTop="10dp"
+                        android:textSize="@dimen/recycler_item_view_status_text_size"
+                        android:textColor="@color/colorBlack"
+                        android:text="@string/city"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/weatherforcast"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/colorBlack"
+                        android:layout_marginRight="25dp"
+                        android:textSize="@dimen/recycler_item_view_status_text_size"
+                        android:text="@string/default_City"
+                        android:textStyle="bold"
+                        android:layout_alignParentEnd="true"
+                    />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+</RelativeLayout>
